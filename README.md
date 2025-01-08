@@ -14,7 +14,7 @@
 - Configured using KabyLake (7th-gen) using OpCore-Simplify, ProperTree and OC Sanity Check.
 - **Audio**: 3.5mm combo jack working (layout-id=56).
 - **Battery**: Proper battery detection.
-- **Display**: 
+- **Display**: May experience color-banding due to the panel (TN) itself. 
 - **WiFi/Bluetooth**: Intel AC8265 supported (Magic Devices compatible).
 - **HDMI**: HDMI output works.
 - **Boot Chime**: Plays the macOS boot chime.
