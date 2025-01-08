@@ -1,5 +1,5 @@
 # ASUS VivoBook 15 X507UAR OpenCore EFI
-
+![Spec](https://github.com/user-attachments/assets/beb898e7-81b0-4f6c-ba03-ac8be70e784b)
 ## Specifications
 - **Model**: ASUS VivoBook 15 – X507UA-BR385T (X507UAR)
 - **Processor**: Intel Core i3-8130U (KabyLake-R)
@@ -8,6 +8,7 @@
 - **Audio**: Realtek ALC256
 - **WiFi/Bluetooth**: Intel Dual-Band Wireless AC8265
 - **BIOS**: Latest version: 305
+
 
 ## Features
 - OpenCore version: **1.0.3**
