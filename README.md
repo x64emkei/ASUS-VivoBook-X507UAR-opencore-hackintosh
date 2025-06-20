@@ -30,6 +30,7 @@
   The `Generic` section in the config is left blank to avoid serial number conflicts.
 - Check [here](https://www.asus.com/laptops/for-home/everyday-use/asus-x507/helpdesk_download?model2Name=ASUS-Laptop-X507UA "ASUS X507UAR Drivers and BIOS") for complete drivers for proper ACPI detection.
 - When checking `config.plist` at [OC Sanity Checker](https://sanitychecker.ocutils.me)make sure to select '(7th) Kaby Lake' and the OpenCore version (in this case - v1.0.3). Since this is a Refresh CPU despite Intel marketing this as 8th-Gen processor, the CPU remains configured as KabyLake. 
+- May need to use AIRPORT on SEQUOIA 
 
 ---
 **Disclaimer**: This EFI is tailored specifically for the ASUS VivoBook 15 X507UAR. Compatibility with other models is not guaranteed (such as -UB/-MA/-LA/-UF/F507LA models), EFI may subject to change according to your specifications.
